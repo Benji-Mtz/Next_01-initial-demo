@@ -2,9 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+```bash
+npx create-next-app@latest
+# or 
+manually
+```
+
 First, run the development server:
 
 ```bash
+cd project_name
 npm run dev
 # or
 yarn dev
